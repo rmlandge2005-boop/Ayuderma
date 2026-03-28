@@ -1,0 +1,8 @@
+{
+  "name": "Ayuderma",
+  "description": "AI-powered skin analysis tool for detecting skin types, infections, and providing personalized skincare, dietary, and medical recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
